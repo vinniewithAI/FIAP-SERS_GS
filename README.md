@@ -1,6 +1,6 @@
 # ☀️ Análise Energética do Palácio do Planalto com Energia Solar (FIAP - Global Solution)
 
-Este repositório apresenta a **Global Solution** do curso de **Ciência da Computação - FIAP**, com foco em **Soluções de Energias Renováveis e Sustentáveis**.  
+Este repositório apresenta a **Global Solution** do curso de **Ciência da Computação - FIAP**, na matéria de **Soluções de Energias Renováveis e Sustentáveis**.  
 Analisamos o **consumo e gasto energético oficial do Palácio do Planalto (2023–2025)** e propomos uma **solução realista de energia solar fotovoltaica on-grid** nos Anexos — o local de maior consumo.
 
 > **Dados reais + Python + Sustentabilidade = Economia de R$1,9M/ano + 78t CO₂ evitadas**
