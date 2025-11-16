@@ -50,3 +50,5 @@ Analisamos o **consumo e gasto energético oficial do Palácio do Planalto (2023
   pip install pandas numpy matplotlib seaborn
 * **Link para base de dados filtrada no MEGA:**
 * https://mega.nz/folder/5jwVjaRA#8ibFRWRCKyFBNt6mw_7MTQ
+* **Link da apresentação em Vídeo:**
+* https://youtu.be/MaRR74OPtBs
